@@ -1,0 +1,30 @@
+
+$info-color:#1b3646;
+$warn-color:#897f17;
+$danger-color:#8a5e17;
+$error-color:#7e2525;
+$success-color:#22531f;
+
+$msg-bg:#283128;
+$msg-txt:white;
+
+$primary: #A6D395;
+$surfaceTint: #A6D395;
+$onPrimary:#12380A;
+$primaryContainer:#294F1F;
+$onPrimaryContainer:#C1EFAF;
+
+$secondary:#BBCBB1;
+$onSecondary:#273421;
+$secondaryContainer:#3D4B37;
+$onSecondaryContainer:#D7E8CC;
+
+$tertiary:#A0CFD1;
+$onTertiary:#003739;
+$tertiaryContainer:#1E4E50;
+$onTertiaryContainer:#BCEBEE;
+
+header{
+    background:$primaryContainer;
+    color:$onPrimaryContainer;
+}
